@@ -1,10 +1,9 @@
 ## Description
 
 Fork of Electron.Net for better compatibility with orb360 software on macOS.
-Current version designed for compatibility with orb360 software 1.3.0.
 
 ## Installation
-
+Please check branches for latest version compatibility (for example, please checkout specific branch for 1.3.0 for most up to date changes)
 Navigate to the repo root and run builAll.sh.
 
 
