@@ -1,3 +1,13 @@
+## Description
+
+Fork of Electron.Net for better compatibility with orb360 software on macOS.
+Current version designed for compatibility with orb360 software 1.3.0.
+
+## Installation
+
+Navigate to the repo root and run builAll.sh.
+
+
 [![Electron.NET Logo](https://github.com/ElectronNET/Electron.NET/raw/main/assets/images/electron.net-logo.png)](https://github.com/ElectronNET/Electron.NET)
 
 [![donate](https://img.shields.io/badge/Donate-Donorbox-green.svg)](https://donorbox.org/electron-net) [![Gitter](https://badges.gitter.im/ElectronNET/community.svg)](https://gitter.im/ElectronNET/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Build status](https://github.com/ElectronNET/Electron.NET/actions/workflows/ci.yml/badge.svg)](https://github.com/ElectronNET/Electron.NET/actions/workflows/ci.yml)
